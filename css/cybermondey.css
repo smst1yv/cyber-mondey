@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+.cybermondey{
+    line-height: 0;
+}
+.cybermondey .background-img{
+    width: 1349px;
+    height: 628px;
+}
+.cybermondey .cyber-img{
+    margin-top: -330px;
+}
+.cybermondey .cyber-img img{
+    width: 800px;
+    height: 660px;
+    object-fit: cover;
+}
+.cybermondey .cyber-img h6{
+    font-size: 1.25rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin: 0;
+    position: relative;
+    color: white;
+    margin-top: -550px;
+    margin-left: 900px;
+    font-family: 'Montserrat', sans-serif;
+}
+.cybermondey .cyber-img span{
+    color: #e211e5 !important;
+    font-family: 'Koulen';
+}
+.cybermondey .cyber-img h2{
+    font-size: 5rem;
+    color: white;
+    font-family: 'Koulen';
+    margin-left: 850px;
+    margin-top: 100px;
+}
+.cybermondey .cyber-img p{
+    font-size: 2rem;
+    font-family:  sans-serif !important;
+    color: white;
+    margin-left: 900px;
+    margin-top: 90px;
+}
+.cybermondey .cyber-img .p-two{
+    font-size: 2rem;
+    font-family:  sans-serif !important;
+    color: white;
+    margin-left: 910px;
+    margin-top: 50px;
+}
+.cybermondey .cyber-img .button-p{
+    font-size: 18px;
+    color: white;
+    margin-left: 975px;
+    margin-top: 55px;
+}
+.cybermondey .cyber-img .button-p .button{
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+.cybermondey .cyber-img .button-p .button:hover{
+    border-bottom: none;
+}
+.cybermondey .cyber-img .shop-button{
+    margin-left: 945px;
+    margin-top: 75px;
+}
+.cybermondey .cyber-img .shop-button .shop-now{
+    letter-spacing: 3px;
+    background-image: linear-gradient(#ff0000, #e211e5);
+    font-family: Koulen;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 39px auto 0;
+    padding: 12px 54px;
+    border-radius: 65px;
+    color: white;
+    text-decoration: none;
+}
+.cybermondey .cyber-img .shop-button .shop-now:hover{
+    color: #727072;
+}
+.tecno-studio{
+    line-height: 0;
+    margin-top: 178px;
+}
+.tecno-studio .tecno-img{
+    width: 1349px;
+    height: 600px;
+    object-fit: cover;
+}
+.tecno-studio h1{
+    color: white;
+    letter-spacing: 10px;
+    font-size: 5.9rem;
+    text-align: center;
+    margin-top: 260px;
+}
+.tecno-studio h4{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-left: 240px;
+    color: #fff;
+    margin-top: 105px;
+}
+.tecno-progges{
+    line-height: 0;
+    margin-top: 233px;
+}
+.tecno-progges .progges-img{
+    width: 1349px;
+    height: 700px;
+    object-fit: cover;
+}
+.tecno-progges h2{
+    font-weight: 400;
+    font-size: 2.15rem;
+    line-height: 1.1;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -220px;
+    color: white;
+    margin-left: 550px;
+}
+.tecno-progges .progges-p{
+    width: 480px;
+    margin-left: 450px;
+}
+.tecno-progges .progges-p p{
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-top: 630px;
+    color: white;
+    text-align: center;
+    font-family: 'Courier Prime', monospace;
+}
+.web-studio{
+    line-height: 0;
+    margin-top: 23px;
+}
+.web-studio .web-studio-img{
+    object-fit: cover;
+    width: 1349px;
+    height: 500px;
+}
+.web-studio h2{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 1.2;
+    margin-top: -320px;
+    margin-left: 620px;
+}
+.web-studio .web-studio-p .web-p-one{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 520px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+.web-studio .web-studio-p .web-p-two{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 498px;
+    margin-top: 2px;
+    letter-spacing: 2px;
+    font-size: 1.rem;
+    line-height: 1.6;
+}
+.web-studio .web-studio-p .web-p-tree{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-left: 647px;
+    margin-top: 2px;
+}
+.contact{
+    line-height: 0;
+}
+.contact img{
+    margin-top: 183px;
+    width: 1349px;
+    height: 600px;
+    object-fit: cover;
+}
